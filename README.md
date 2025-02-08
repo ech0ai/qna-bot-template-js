@@ -1,10 +1,8 @@
 # qna-bot-template-js
 
-[![Discord](https://dcbadge.vercel.app/api/server/nhvCbCtKV?style=flat)](https://discord.gg/6PzXDgEjG5)
-[![Twitter](https://img.shields.io/twitter/follow/ech0)](https://twitter.com/ech0)
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?logo=substack)](https://ech0.substack.com/)
+[![Twitter](https://img.shields.io/twitter/follow/ech0_ai)](https://twitter.com/ech0_ai)
 
-qna-bot-template-js is a frontend app created in Next.js powered by [ech0js](https://github.com/ech0/ech0js). ech0 is a framework to easily create LLM powered bots over any dataset. ech0js is Javascript version of ech0. If you want a python version, check out [ech0-python](https://github.com/ech0/ech0)
+qna-bot-template-js is a frontend app created in Next.js powered by [ech0js](https://github.com/ech0/ech0js). ech0 is a framework to easily create LLM powered bots over any dataset. ech0js is Javascript version of ech0. If you want a python version, check out [ech0-python](https://github.com/ech0ai/ech0)
 
 It abstracts the entire process of loading dataset, chunking it, creating embeddings and then storing in vector database.
 
@@ -152,13 +150,3 @@ ech0 is built on the following stack:
 - [OpenAI's Ada embedding model](https://platform.openai.com/docs/guides/embeddings) to create embeddings
 - [OpenAI's ChatGPT API](https://platform.openai.com/docs/guides/gpt/chat-completions-api) as LLM to get answers given the context
 - [Chroma](https://github.com/chroma-core/chroma) as the vector database to store embeddings
-
-# Team
-
-## Author
-
-- Taranjeet Singh ([@taranjeetio](https://twitter.com/taranjeetio))
-
-## Maintainer
-
-- [sahilyadav902](https://github.com/sahilyadav902)
